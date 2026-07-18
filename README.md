@@ -64,6 +64,8 @@ PulseRPC:
 
 ---
 
+
+
 ## 🎵 Статус в Discord
 
 PulseRPC отображает вашу текущую музыку прямо в Discord Rich Presence.
@@ -72,6 +74,8 @@ PulseRPC отображает вашу текущую музыку прямо в
 - 🎵 название трека;
 - 👤 исполнителя;
 - 🟣 свою музыкальную активность друзьям.
+
+
 
 ## 🖥️ Пример работы
 
@@ -90,9 +94,20 @@ PulseRPC отображает вашу текущую музыку прямо в
   </tr>
 </table>
 
+
 ---
 
+## 📢 Сообщество
 
+Следите за обновлениями PulseRPC, новостями и новыми функциями в Telegram:
+
+<p align="center">
+  <a href="https://t.me/noclipatty">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
+  </a>
+</p>
+
+---
 
 ## 📄 Лицензия
 
