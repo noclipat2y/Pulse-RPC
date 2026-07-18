@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/noclipat2y/Pulse-RPC/releases">
     <img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/logo.png" width="180" alt="PulseRPC Logo"/>
@@ -7,109 +8,176 @@
 <h1 align="center">PulseRPC</h1>
 
 <p align="center">
-  PulseRPC — музыка в вашем Discord активности.
+  Расширьте свой Discord статус — показывайте музыку, которую вы слушаете, в реальном времени.
 </p>
 
 <p align="center">
-  <a href="https://github.com/noclipat2y/Pulse-RPC/releases">Скачать</a> •
-  <a href="https://github.com/noclipat2y/Pulse-RPC/issues">Сообщить об ошибке</a> •
-  <a href="https://github.com/noclipat2y/Pulse-RPC">GitHub</a>
+  <a href="https://github.com/noclipat2y/Pulse-RPC/releases">⬇ Скачать</a>
+  •
+  <a href="https://github.com/noclipat2y/Pulse-RPC/issues">🐛 Сообщить об ошибке</a>
+  •
+  <a href="https://t.me/noclipatty">💬 Telegram</a>
 </p>
 
----
-
-PulseRPC автоматически считывает информацию о текущем треке со страницы музыкального сервиса и отображает её в статусе Discord в реальном времени.
 
 ---
 
-## ✨ Возможности
+# 🎵 Что такое PulseRPC?
 
-- 🎵 Отображение названия трека
-- 👤 Отображение исполнителя
-- 🔄 Автоматическое обновление статуса
-- 💻 Работа без официального API музыкального сервиса
-- ⚡ Лёгкая установка
-- ⚫ Темный Интерфейс
+**PulseRPC** — это лёгкое приложение для Windows, которое автоматически определяет текущий воспроизводимый трек и отображает его в вашем профиле Discord через Rich Presence.
+
+Больше не нужно вручную менять статус — PulseRPC сделает это за вас.
+
+Поддерживается работа без официального API музыкальных сервисов.
+
 
 ---
 
-## 📦 Поддержка
+# ✨ Возможности
 
-### Сейчас
+### 🎧 Музыка в Discord
 
-- Yandex Music (app)
+Отображение:
 
-### В планах
-
-- VK music
-- Yandex Music WEB
-- YouTube Music
-- Другие браузерные плееры
-
----
+- 🎵 Названия трека
+- 👤 Исполнителя
+- 💿 Альбома
+- 🎶 Музыкальной платформы
 
 
-🔒 Безопасность
+### ⚡ Автоматизация
+
+- Автоматическое обновление Discord статуса
+- Работа в фоне через системный трей
+- Запуск вместе с Windows
+- Минимальное потребление ресурсов
+
+
+### 🔒 Приватность
 
 PulseRPC:
 
-не получает доступ к аккаунту Discord;
-
-не использует скрытые ключи музыкальных сервисов;
-
-не отправляет ваши данные третьим лицам;
-
-работает локально на вашем компьютере.
+- ❌ не получает доступ к вашему Discord аккаунту
+- ❌ не хранит ваши музыкальные данные
+- ❌ не отправляет информацию на сторонние серверы
+- ✅ работает полностью локально
 
 
 ---
 
+# 🎶 Поддерживаемые платформы
+
+## Сейчас:
+
+🟣 Yandex Music App
 
 
-## 🎵 Статус в Discord
+## В разработке:
 
-PulseRPC отображает вашу текущую музыку прямо в Discord Rich Presence.
-
-Вы можете показывать:
-- 🎵 название трека;
-- 👤 исполнителя;
-- 🟣 свою музыкальную активность друзьям.
-
+- 🔵 VK Music
+- 🌐 Yandex Music Web
+- 🔴 YouTube Music
+- ☁ SoundCloud
+- Другие музыкальные сервисы
 
 
-## 🖥️ Пример работы
+---
+
+# 🖥 Discord Rich Presence
+
+PulseRPC отображает:
+
+
+
+🎵 Название трека
+
+👤 Исполнитель
+
+🟣 Yandex Music
+
+
+
+Ваши друзья сразу видят, что вы слушаете.
+
+
+---
+
+# 📸 Скриншоты
+
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/full%20prof.png" width="350" alt="PulseRPC Discord Profile"/>
-      <br>
-      <b>Discord Profile</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/Voice%20activ.png" width="500" alt="PulseRPC Discord Voice Activity"/>
-      <br>
-      <b>Voice Activity</b>
-    </td>
-  </tr>
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/full%20prof.png" width="350">
+
+<b>Discord Profile</b>
+
+</td>
+
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/Voice%20activ.png" width="500">
+
+<b>Voice Activity</b>
+
+</td>
+
+</tr>
 </table>
 
 
 ---
 
-## 📢 Сообщество
+# 📦 Установка
 
-Следите за обновлениями PulseRPC, новостями и новыми функциями в Telegram:
+1. Перейдите в раздел Releases
+2. Скачайте последнюю версию PulseRPC
+3. Запустите установщик
+4. Запустите приложение
+5. Откройте Discord
 
-<p align="center">
-  <a href="https://t.me/noclipatty">
-    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
-  </a>
-</p>
 
 ---
 
-## 📄 Лицензия
+# ⚙️ Системные требования
+
+- Windows 10 / Windows 11
+- Discord Desktop
+- .NET Runtime
+
+
+---
+
+# 🛠 Разработка
+
+PulseRPC создан с использованием:
+
+- C#
+- .NET
+- Discord Rich Presence
+- Windows API
+
+
+---
+
+# 📢 Сообщество
+
+Новости, обновления и поддержка:
+
+<p align="center">
+
+<a href="https://t.me/noclipatty">
+<img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram">
+</a>
+
+</p>
+
+
+---
+
+# 📄 Лицензия
 
 PulseRPC распространяется под лицензией MIT.
 
@@ -117,7 +185,13 @@ PulseRPC распространяется под лицензией MIT.
 
 [LICENSE EN/RU](LICENSE_EN)
 
+
 ---
 
+<p align="center">
 
-> PulseRPC — музыка в вашем Discord активности.
+<b>
+PulseRPC — ваша музыка, ваш Discord.</b>
+
+</p>
+
