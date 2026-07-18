@@ -1,7 +1,22 @@
-# PulseRPC
+<p align="center">
+  <a href="https://github.com/noclipat2y/Pulse-RPC/releases">
+    <img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/logo.png" width="180" alt="PulseRPC Logo"/>
+  </a>
+</p>
+
+<h1 align="center">PulseRPC</h1>
+
+<p align="center">
+  PulseRPC — музыка в вашем Discord активности.
+</p>
+
+<p align="center">
+  <a href="https://github.com/noclipat2y/Pulse-RPC/releases">Скачать</a> •
+  <a href="https://github.com/noclipat2y/Pulse-RPC/issues">Сообщить об ошибке</a> •
+  <a href="https://github.com/noclipat2y/Pulse-RPC">GitHub</a>
+</p>
 
 ---
-> PulseRPC — музыка в вашем Discord активности.
 
 PulseRPC автоматически считывает информацию о текущем треке со страницы музыкального сервиса и отображает её в статусе Discord в реальном времени.
 
@@ -56,10 +71,16 @@ PulseRPC:
 ---
 
 
-📄 Лицензия
 
-Используйте PulseRPC только в соответствии с правилами Discord и музыкальных/стриминговых сервисов.
+## 📄 Лицензия
 
+PulseRPC распространяется под лицензией MIT.
+
+Подробнее:
+
+[LICENSE EN](LICENSE_EN)
+
+[LICENSE RU](LICENSE_RU)
 
 ---
 
