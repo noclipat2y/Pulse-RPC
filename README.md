@@ -64,9 +64,31 @@ PulseRPC:
 
 ---
 
-🎵 Статус в Discord
+## 🎵 Статус в Discord
 
-Имей уникальный статус в дискорде!
+PulseRPC отображает вашу текущую музыку прямо в Discord Rich Presence.
+
+Вы можете показывать:
+- 🎵 название трека;
+- 👤 исполнителя;
+- 🟣 свою музыкальную активность друзьям.
+
+## 🖥️ Пример работы
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/full%20prof.png" width="350" alt="PulseRPC Discord Profile"/>
+      <br>
+      <b>Discord Profile</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/Voice%20activ.png" width="500" alt="PulseRPC Discord Voice Activity"/>
+      <br>
+      <b>Voice Activity</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
