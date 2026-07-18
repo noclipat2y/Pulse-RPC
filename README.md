@@ -49,12 +49,9 @@ PulseRPC:
 
 ---
 
-🟣 Статус в Discord
+🎵 Статус в Discord
 
-🎵 Believer
-👤 Imagine Dragons
-🟣 через PulseRPC
-
+Имей уникальный статус в дискорде!
 
 ---
 
