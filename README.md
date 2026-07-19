@@ -189,7 +189,7 @@ PulseRPC распространяется под лицензией MIT.
 
 Подробнее:
 
-[LICENSE EN/RU](LICENSE)
+[LICENSE EN/RU](LICENSE.md)
 
 
 ---
