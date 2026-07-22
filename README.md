@@ -115,7 +115,7 @@ PulseRPC отображает:
 <tr>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/full%20prof.png" width="350">
+<img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/Full%20prof.png" width="350">
 
 <b>Discord Profile</b>
 
