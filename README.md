@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/noclipat2y/Pulse-RPC/releases">
     <img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/logo.png" width="180" alt="PulseRPC Logo"/>
@@ -12,13 +11,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/noclipat2y/Pulse-RPC/releases">⬇ Скачать</a>
-  •
-  <a href="https://github.com/noclipat2y/Pulse-RPC/issues">🐛 Сообщить об ошибке</a>
-  •
-  <a href="https://t.me/noclipatty">💬 Telegram</a>
+  <a href="https://github.com/noclipat2y/Pulse-RPC/releases">
+    <img src="https://img.shields.io/badge/⬇_Скачать-Releases-blue?style=for-the-badge" alt="Скачать">
+  </a>
+  <a href="https://github.com/noclipat2y/Pulse-RPC/issues">
+    <img src="https://img.shields.io/badge/🐛_Сообщить_об_ошибке-Issues-red?style=for-the-badge" alt="Issues">
+  </a>
+  <a href="https://t.me/noclipatty">
+    <img src="https://img.shields.io/badge/💬_Telegram-Канал-blue?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
 </p>
-
 
 ---
 
@@ -42,108 +44,79 @@
 # ✨ Возможности
 
 ### 🎧 Музыка в Discord
-
 Отображение:
-
 - 🎵 Названия трека
 - 👤 Исполнителя
 - 💿 Альбома
 - 🎶 Музыкальной платформы
 
-
 ### ⚡ Автоматизация
-
 - Автоматическое обновление Discord статуса
 - Работа в фоне через системный трей
 - Запуск вместе с Windows
 - Минимальное потребление ресурсов
 
-
 ### 🔒 Приватность
-
 PulseRPC:
-
 - ❌ не получает доступ к вашему Discord аккаунту
 - ❌ не хранит ваши музыкальные данные
 - ❌ не отправляет информацию на сторонние серверы
 - ✅ работает полностью локально
-
 
 ---
 
 # 🎶 Поддерживаемые платформы
 
 ## Сейчас:
-
 🟣 Yandex Music App
 
-
 ## В разработке:
-
 - 🔵 VK Music
 - 🌐 Yandex Music Web
 - 🔴 YouTube Music
 - ☁ SoundCloud
 - Другие музыкальные сервисы
 
-
 ---
 
 # 🖥 Discord Rich Presence
 
-PulseRPC отображает:
+PulseRPC отображает в вашем статусе:
 
-
-
-🎵 Название трека
-
-👤 Исполнитель
-
-🟣 Yandex Music
-
-
+🎵 **Название трека**  
+👤 **Исполнитель**  
+🟣 **Yandex Music**
 
 Ваши друзья сразу видят, что вы слушаете.
-
 
 ---
 
 # 📸 Скриншоты
 
-
 <table>
 <tr>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/Full%20prof.png" width="350">
-
-<b>Discord Profile</b>
-
+<td align="center" width="50%">
+  <img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/FullProfile.png" width="100%" alt="Discord Profile">
+  <br>
+  <b>Полный профиль Discord</b>
 </td>
-
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/Voice%20activ.png" width="500">
-
-<b>Voice Activity</b>
-
+<td align="center" width="50%">
+  <img src="https://raw.githubusercontent.com/noclipat2y/Pulse-RPC/main/assets/MiniProfile.png" width="100%" alt="Voice Activity">
+  <br>
+  <b>Мини-профиль / Активность</b>
 </td>
-
 </tr>
 </table>
-
 
 ---
 
 # 📦 Установка
 
-1. Перейдите в раздел Releases
+1. Перейдите в раздел [Releases](https://github.com/noclipat2y/Pulse-RPC/releases)
 2. Скачайте последнюю версию PulseRPC
 3. Запустите установщик
 4. Запустите приложение
 5. Откройте Discord
-
 
 ---
 
@@ -153,33 +126,27 @@ PulseRPC отображает:
 - Discord Desktop
 - .NET Runtime
 
-
 ---
 
 # 🛠 Разработка
 
 PulseRPC создан с использованием:
-
 - C#
 - .NET
 - Discord Rich Presence
 - Windows API
 
-
 ---
 
 # 📢 Сообщество
 
-Новости, обновления и поддержка:
+Новости, обновления и поддержка в Telegram:
 
 <p align="center">
-
-<a href="https://t.me/noclipatty">
-<img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram">
-</a>
-
+  <a href="https://t.me/noclipatty">
+    <img src="https://img.shields.io/badge/Telegram-Канал-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
+  </a>
 </p>
-
 
 ---
 
@@ -187,17 +154,10 @@ PulseRPC создан с использованием:
 
 PulseRPC распространяется под лицензией MIT.
 
-Подробнее:
-
-[LICENSE EN/RU](LICENSE.md)
-
+Подробнее: [LICENSE EN/RU](LICENSE.md)
 
 ---
 
 <p align="center">
-
-<b>
-PulseRPC — ваша музыка, ваш Discord.</b>
-
+  <b>PulseRPC — ваша музыка, ваш Discord.</b>
 </p>
-
